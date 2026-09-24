@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Arman Ahmadi",
+        "age": 24,
+        "phone": "09121234567"
+    },
+    {
+        "name": "Sara Mohammadi",
+        "age": 27,
+        "phone": "09129876543"
+    },
+    {
+        "name": "Milad Fathi",
+        "age": 21,
+        "phone": "09876543212"
+    },
+    {
+        "name": "Nika Rahimi",
+        "age": 25,
+        "phone": "09888888888"
+    },
+    {
+        "name": "Tara Moradi",
+        "age": 32,
+        "phone": "09765432123"
+    },
+    {
+        "name": "Amir rezaie",
+        "age": 31,
+        "phone": "09128765456"
+    },
+    {
+        "name": "Yasin Ebrahimi",
+        "age": 29,
+        "phone": "09129876567"
+    }
+]
